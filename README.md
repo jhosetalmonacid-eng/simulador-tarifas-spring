@@ -1,2 +1,3 @@
-# simulador-tarifas-spring
-Spring Boot para la simulación y cálculo de tarifas, con descuentos por pronto pago y recargos por pagos.
+# Simulador de Tarifas e Impuestos
+
+Aplicación en Spring Boot para realizar simulaciones de liquidación de tarifas institucionales, aplicando descuentos por pronto pago o recargos extemporáneos.
